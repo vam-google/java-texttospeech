@@ -1,5 +1,20 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/googleapis/java-texttospeech/compare/v1.0.1...v1.0.2) (2020-03-18)
+
+
+### Dependencies
+
+* update core dependencies to v1.54.0 ([#78](https://www.github.com/googleapis/java-texttospeech/issues/78)) ([3b7064f](https://www.github.com/googleapis/java-texttospeech/commit/3b7064fe44d8dec3873146142fb4caa2f2e0dc7e))
+* update dependency com.google.protobuf:protobuf-java to v3.11.4 ([c2bcea8](https://www.github.com/googleapis/java-texttospeech/commit/c2bcea899301fd176e453c32d7937e342f23df49))
+* update dependency io.grpc:grpc-bom to v1.27.1 ([8590191](https://www.github.com/googleapis/java-texttospeech/commit/859019194bf4f8cb48eef213e13ae65fac29d863))
+* update dependency io.grpc:grpc-bom to v1.27.2 ([89d84ab](https://www.github.com/googleapis/java-texttospeech/commit/89d84ab096c69bba457b8227d8fa190690293022))
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([1763988](https://www.github.com/googleapis/java-texttospeech/commit/1763988e39ac6ed999afefa741e5e0e74032a815))
+
 ### [1.0.1](https://www.github.com/googleapis/java-texttospeech/compare/v1.0.0...v1.0.1) (2020-02-04)
 
 
